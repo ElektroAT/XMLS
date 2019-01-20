@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServidoresWMS>
+  <Servidor Nombre="ICC" SrvUrl="http://shagrat.icc.es/lizardtech/iserv/ows?" ImgMaxX="1950" ImgMaxY="1950">
+    <Capa Titulo="Topografic 5000" Nombre="mtc5m" Res="0,5" PLogo="0"/>
+    <Capa Titulo="Topografic 10000" Nombre="mtc10m" Res="1" PLogo="0"/>
+    <Capa Titulo="Topografic 25000" Nombre="mtc25m" Res="2,5" PLogo="0"/>
+    <Capa Titulo="Topografic 50000" Nombre="mtc50m" Res="5" PLogo="0"/>
+    <Capa Titulo="Ortofofo 25c" Nombre="orto25c" Res="0,25" PLogo="0"/>
+    <Capa Titulo="Ortofofo 25c(2009)" Nombre="orto25c2009" Res="0,25" PLogo="0"/>
+    <Capa Titulo="Ortofofo 25c(2008)" Nombre="orto25c2008" Res="0,25" PLogo="0"/>
+    <Capa Titulo="Ortofofo 5000" Nombre="orto5m" Res="0,5" PLogo="0"/>
+    <Capa Titulo="Ortofofo 5000(2008)" Nombre="orto5m2008" Res="0,5" PLogo="0"/>
+    <Capa Titulo="Ortofofo 25m" Nombre="orto25m" Res="2,5" PLogo="0"/>
+    <Capa Titulo="Ortofofo 10c" Nombre="orto10c" Res="0,1" PLogo="0"/>
+    <Capa Titulo="Ortofofo 10c(2010)" Nombre="orto10c2010" Res="0,1" PLogo="0"/>
+    </Servidor>
+  <Servidor Nombre="OrtoXpres" SrvUrl="http://geoserveis.icgc.cat/icc_ortoxpres/wms/service?" ImgMaxX="1950" ImgMaxY="1950">
+    <Capa Titulo="Catalunya 50cm. 2016" Nombre="ox3dcat50c2016" Res="0,50" PLogo="0"/>
+    <Capa Titulo="Catalunya 25cm. 2016" Nombre="ox3dcat25c2016" Res="0,25" PLogo="0"/>
+	<Capa Titulo="Catalunya 50cm. 2015" Nombre="ox3dcat50c2015" Res="0,50" PLogo="0"/>
+    <Capa Titulo="Catalunya 25cm. 2015" Nombre="ox3dcat25c2015" Res="0,25" PLogo="0"/>
+    <Capa Titulo="Nuclis Urbans 7.5cm. 2016" Nombre="ox3durbanes2016" Res="0,075" PLogo="0"/>
+    <Capa Titulo="Catalunya NDVI. 2016" Nombre="ox3dndvi2016" Res="0,25" PLogo="0"/>
+    <Capa Titulo="Catalunya Costa 10cm. Hivern 2016" Nombre="ox3dcosta2016hivern" Res="0,1" PLogo="0"/>
+    <Capa Titulo="Catalunya 1956-57" Nombre="ox3dvolamerica1956" Res="0,5" PLogo="0"/>
+  </Servidor>
+    <Servidor Nombre="IGN" SrvUrl="http://www.ign.es/wms-inspire/mapa-raster?" ImgMaxX="1950" ImgMaxY="1950">
+    <Capa Titulo="Mapas raster (IGN) 25000" Nombre="mtn_rasterizado" Res="1" PLogo="0"/>
+    <Capa Titulo="Mapas raster (IGN) 50000" Nombre="mtn_rasterizado" Res="2" PLogo="0"/>
+    <Capa Titulo="Mapas raster (IGN) 100000" Nombre="mtn_rasterizado" Res="10" PLogo="0"/>
+  </Servidor> 
+  <Servidor Nombre="Catastro" SrvUrl="http://ovc.catastro.meh.es/Cartografia/WMS/ServidorWMS.aspx?" ImgMaxX="4950" ImgMaxY="4950">
+    <Capa Titulo="Catastro" Nombre="Catastro" Res="1" PLogo="20"/>
+    <Capa Titulo="Parcela" Nombre="parcela,txtparcela,limites,constru" Res="1" PLogo="20"/>
+    <Capa Titulo="Parcela+subparcela" Nombre="parcela,txtparcela,subparce,txtsubparce,limites,constru" Res="1" PLogo="20"/>
+    <Capa Titulo="05Catastro" Nombre="Catastro" Res="0,5" PLogo="10"/>
+    <Capa Titulo="05Parcela" Nombre="parcela,txtparcela,limites,constru" Res="0,5" PLogo="10"/>
+    <Capa Titulo="05Parcela+subparcela" Nombre="parcela,txtparcela,subparce,txtsubparce,limites,constru" Res="0,5" PLogo="10"/>
+    <Capa Titulo="01Catastro" Nombre="Catastro" Res="0,1" PLogo="2"/>
+    <Capa Titulo="01Parcela" Nombre="parcela,txtparcela,limites,constru" Res="0,1" PLogo="2"/>
+    <Capa Titulo="01Parcela+subparcela" Nombre="parcela,txtparcela,subparce,txtsubparce,limites,constru" Res="0,1" PLogo="2"/>
+  </Servidor>
+  <Servidor Nombre="PNOA" SrvUrl="http://www.idee.es/wms/PNOA/PNOA?" ImgMaxX="1950" ImgMaxY="1950">
+    <Capa Titulo="pnoa" Nombre="pnoa" Res="0,5" PLogo="0"/>
+  </Servidor>
+  <Servidor Nombre="MUC" SrvUrl="http://ptop.gencat.cat/webmap/MUC/Request.aspx?" ImgMaxX="3950" ImgMaxY="3950">
+    <Capa Titulo="Mapa_Urbanistic_Catalunya" Nombre="MUC" Res="1" PLogo="0"/>
+    <Capa Titulo="05Mapa_Urbanistic_Catalunya" Nombre="MUC" Res="0,5" PLogo="0"/>
+    <Capa Titulo="01Mapa_Urbanistic_Catalunya" Nombre="MUC" Res="0,1" PLogo="0"/>
+  </Servidor>
+  <Servidor Nombre="CREAF" SrvUrl="http://www.opengis.uab.es/cgi-bin/MCSC/MiraMon.cgi?" ImgMaxX="2000" ImgMaxY="2000">
+    <Capa Titulo="Mapa de Cobertes del Sol de Catalunya (2005-2007)" Nombre="mcsc-catalunya" Res="5" PLogo="0"/>
+    <Capa Titulo="05_Mapa de Cobertes del Sol de Catalunya (2005-2007)" Nombre="mcsc-catalunya" Res="1" PLogo="0"/>
+    <Capa Titulo="01_Mapa de Cobertes del Sol de Catalunya (2005-2007)" Nombre="mcsc-catalunya" Res="0,5" PLogo="0"/>
+    <Capa Titulo="Mapa de Cobertes del Sol de Catalunya (1993)" Nombre="mcsc1993-catalunya" Res="10" PLogo="0"/>
+    <Capa Titulo="05_Mapa de Cobertes del Sol de Catalunya (1993)" Nombre="mcsc1993-catalunya" Res="5" PLogo="0"/>
+    <Capa Titulo="01_Mapa de Cobertes del Sol de Catalunya (1993)" Nombre="mcsc1993-catalunya" Res="1" PLogo="0"/>
+    <Capa Titulo="Mapa de Cultivos y Aprovechamientos (MCA)" Nombre="mca-catalunya" Res="10" PLogo="0"/>
+    <Capa Titulo="Ecological and Forestry Inventory of Catalonia (IEFC-CREAF)" Nombre="iefc-catalunya" Res="10" PLogo="0"/>
+  </Servidor>
+  <Servidor Nombre="OrtoIB" SrvUrl="http://ideib.caib.es/pub_ideib/public/Ortofoto/MapServer/WMSServer?" ImgMaxX="2000" ImgMaxY="2000">
+    <Capa Titulo="OrtoIB" Nombre="0" Res="0,25" PLogo="0"/>
+	<Capa Titulo="Sat 2002 IB 10m" Nombre="0" Res="0,25" PLogo="0"/>
+  </Servidor>
+  <Servidor Nombre="OrtoIB2011" SrvUrl="http://ideib.caib.es/pub_ideib/public/IMATGES_OR2010_R25/MapServer/WMSServer?" ImgMaxX="2000" ImgMaxY="2000">
+    <Capa Titulo="Ortofoto 2010-2011 IB 25cm" Nombre="0" Res="0,25" PLogo="0"/>
+  </Servidor>
+  <Servidor Nombre="OrtoIB2012" SrvUrl="http://ideib.caib.es/pub_ideib/public/IMATGES_OR2012_R25/MapServer/WMSServer?" ImgMaxX="2000" ImgMaxY="2000">
+    <Capa Titulo="Ortofoto 2012 IB 25cm" Nombre="0" Res="0,25" PLogo="0"/>
+  </Servidor>
+  <Servidor Nombre="Topografic 1000 IB" SrvUrl="http://ideib.caib.es/pub_ideib/public/TOPOGRAFIC_1M/MapServer/WMSServer?" ImgMaxX="2000" ImgMaxY="2000">
+    <Capa Titulo="Topografic 1000 IB Nuclis Urbans" Nombre="1,2,3,4,5,6,7,8,9,10,11,13,15,17,19,21,22" Res="0,1" PLogo="0"/>
+  </Servidor>
+  <Servidor Nombre="Topografic 5000 IB" SrvUrl="http://ideib.caib.es/pub_ideib/public/MTIB/MapServer/WMSServer?" ImgMaxX="2000" ImgMaxY="2000">
+	<Capa Titulo="MTIB IB 5000 Mallorca" Nombre="18,19,20,21,22,24,25,26,27,28,29,30,31,32,33,38,39,41,42,43,45,46,47,48,50,51,52" Res="0,5" PLogo="0"/>
+	<Capa Titulo="MTIB IB 10000 Mallorca" Nombre="18,19,20,21,22,24,25,26,27,28,29,30,31,32,33,38,39,41,42,43,45,46,47,48,50,51,52,54" Res="1" PLogo="0"/>
+	<Capa Titulo="MTIB IB 15000 Mallorca" Nombre="18,19,20,21,22,24,25,26,27,28,29,30,31,32,33,38,39,41,42,43,45,46,47,48,50,51,52,55" Res="1,5" PLogo="0"/>
+	<Capa Titulo="MTIB IB 50000 Mallorca" Nombre="18,19,20,21,22,24,25,26,27,28,29,30,31,32,33,38,39,41,42,43,45,46,47,48,50,51,52,55" Res="5" PLogo="0"/>
+	<Capa Titulo="MTIB IB 100000 Mallorca" Nombre="18,19,20,21,22,24,25,26,27,28,29,30,31,32,33,38,39,41,42,43,45,46,47,48,50,51,52,56" Res="10" PLogo="0"/>
+	<Capa Titulo="MTIB IB 5000 Menorca Eivissa Formentera" Nombre="2,3,4,5,6,8,9,10,11,12,13,15,16,17" Res="0,5" PLogo="0"/>
+	<Capa Titulo="MTIB IB 10000 Menorca Eivissa Formentera" Nombre="2,3,4,5,6,8,9,10,11,12,13,15,16,17" Res="1" PLogo="0"/>
+  </Servidor>
+  <Servidor Nombre="Topografic 5000 IB Mallorca" SrvUrl="http://ideib.caib.es/pub_ideib/public/TOPOGRAFIC_5M_MA06/MapServer/WMSServer?" ImgMaxX="2000" ImgMaxY="2000">
+    <Capa Titulo="MTIB Mallorca 2006" Nombre="1,2,3,4,5,6,7,8,9,10,11,12,13,15,16,17,19" Res="0,5" PLogo="0"/>
+  </Servidor>
+  <Servidor Nombre="SIMA" SrvUrl="http://sima.gencat.cat/DMAH_ws/SIMA_OGC/MapServer/WMSServer?" ImgMaxX="1950" ImgMaxY="1950">
+    <Capa Titulo="Xarxa_Natura_2000" Nombre="11" Res="1" PLogo="0"/>
+    <Capa Titulo="05Xarxa_Natura_2000" Nombre="11" Res="0,5" PLogo="0"/>
+    <Capa Titulo="01Xarxa_Natura_2000" Nombre="11" Res="0,1" PLogo="0"/>
+    <Capa Titulo="Mapa_de_Cobertes_de_Catalunya" Nombre="18" Res="1" PLogo="0"/>
+    <Capa Titulo="05Mapa_de_Cobertes_de_Catalunya" Nombre="18" Res="0,5" PLogo="0"/>
+    <Capa Titulo="01Mapa_de_Cobertes_de_Catalunya" Nombre="18" Res="0,1" PLogo="0"/>
+  </Servidor>
+  <Servidor Nombre="MinisterioEnergia(Chile)" SrvUrl="http://sig.minenergia.cl/geoserver/men/wms?" ImgMaxX="1950" ImgMaxY="1950">
+    <Capa Titulo="Línea de Transmisión Aysen" Nombre="lt_aysen_1e53e92a_60f0_49fb_ad34_479556b98cba" Res="1" PLogo="0"/>
+    <Capa Titulo="Línea de Tranmisión Magallanes" Nombre="lt_magallanes_d96ad869_7f29_4753_b994_752ec62ee1dc" Res="1" PLogo="0"/>
+    <Capa Titulo="Línea de Transmisión SIC" Nombre="lt_sic_728861dd_ef2a_4159_bac9_f5012a351115" Res="1" PLogo="0"/>
+    <Capa Titulo="Línea de Transmisión SING" Nombre="lt_sing_1c966bdb_e893_4b2d_b52e_5945a9a8a68b" Res="1" PLogo="0"/>
+    <Capa Titulo="Proyectos SEIA Lineas Transmision" Nombre="proyectos_seia_linea_649b8db7_4988_4ef7_97bc_ac2c8ff34d25" Res="1" PLogo="0"/>
+    <Capa Titulo="Proyectos SEIA Subestaciones" Nombre="proyectos_seia_linea_a62f012e_0be6_487e_9428_206025e80554" Res="1" PLogo="0"/>
+    <Capa Titulo="SE Aysen" Nombre="se_aysen_45efdcf6_f111_4f9a_80f4_41a63b802b06" Res="1" PLogo="0"/>
+    <Capa Titulo="SE Magallanes" Nombre="se_magallanes_67b299b4_2f39_42ce_9cd6_e3e6241fa60a" Res="1" PLogo="0"/>
+    <Capa Titulo="Subestaciones SIC" Nombre="se_sic_593bcea8_2027_4c17_957e_7f381d089842" Res="1" PLogo="0"/>
+    <Capa Titulo="Subestaciones SING" Nombre="se_sing_9de4172c_23ff_43c8_9f78_ddd7f7e3cf32" Res="1" PLogo="0"/>
+    <Capa Titulo="Gasoductos" Nombre="gasoducto_ccba1231_3543_4755_a4cd_af7560ab8373" Res="1" PLogo="0"/>
+    <Capa Titulo="Oleoductos" Nombre="oleoductos_47faec3e_1913_4945_b1df_e5cb3d27522d" Res="1" PLogo="0"/>
+  </Servidor>
+  <Servidor Nombre="MinisterioVivienda(Chile)" SrvUrl="http://www.geoportal.cl/ArcGIS/services/MinisteriodeViviendayUrbanismo/chile_minvu_ddu_prm_Santiago/MapServer/WMSServer?" ImgMaxX="2000" ImgMaxY="2000">
+    <Capa Titulo="Infraestructura" Nombre="0" Res="0,5" PLogo="0"/>
+    <Capa Titulo="Restricción" Nombre="1" Res="0,5" PLogo="0"/>
+    <Capa Titulo="Usos Permitidos" Nombre="2" Res="0,5" PLogo="0"/>
+    <Capa Titulo="Límite Urbano PRMS" Nombre="3" Res="0,5" PLogo="0"/>
+    </Servidor>
+  <Servidor Nombre="MinisterioAgricultura(Chile)" SrvUrl="http://ide.minagri.gob.cl:80/maps/Publico/wms?" ImgMaxX="2000" ImgMaxY="2000">
+    <Capa Titulo="CIREN Propiedades R01 2014 Escala 10.000" Nombre="CIREN_Propiedades_R01_2014_Escala_10.000_P" Res="0,5" PLogo="0"/>
+    <Capa Titulo="CIREN Propiedades R03 2007 Escala 10.000" Nombre="CIREN_Propiedades_R03_2007_Escala_10.000_P" Res="0,5" PLogo="0"/>
+    <Capa Titulo="CIREN Propiedades R04 2012 Escala 10.000" Nombre="CIREN_Propiedades_R04_2012_Escala_10.000_P" Res="0,5" PLogo="0"/>
+    <Capa Titulo="CIREN Propiedades R05 2008 Escala 10.000" Nombre="CIREN_Propiedades_R05_2008_Escala_10.000_P" Res="0,5" PLogo="0"/>
+    <Capa Titulo="CIREN Propiedades R08 2012 Escala 10.000" Nombre="CIREN_Propiedades_R08_2012_Escala_10.000_P" Res="0,5" PLogo="0"/>
+    <Capa Titulo="CIREN Propiedades R09 2012 Escala 10.000" Nombre="CIREN_Propiedades_R09_2012_Escala_10.000_P" Res="0,5" PLogo="0"/>
+    <Capa Titulo="CIREN Propiedades R10 1999 Escala 20.000" Nombre="CIREN_Propiedades_R10_1999_Escala_20.000_P" Res="0,5" PLogo="0"/>
+   <Capa Titulo="CIREN Propiedades R11 2004 Escala 20.000" Nombre="CIREN_Propiedades_R11_2004_Escala_20.000_P" Res="0,5" PLogo="0"/>
+   <Capa Titulo="CIREN Propiedades R13 2013 Escala 10.000" Nombre="CIREN_Propiedades_R13_2013_Escala_10.000_P" Res="0,5" PLogo="0"/>
+   <Capa Titulo="CIREN Propiedades R14 2001 Escala 20.000" Nombre="CIREN_Propiedades_R14_2001_Escala_20.000_P" Res="0,5" PLogo="0"/>
+   <Capa Titulo="Límite Urbano PRMS" Nombre="3" Res="0,5" PLogo="0"/>
+   <Capa Titulo="Límite Urbano PRMS" Nombre="3" Res="0,5" PLogo="0"/>
+   <Capa Titulo="Límite Urbano PRMS" Nombre="3" Res="0,5" PLogo="0"/>
+  </Servidor>
+  <Servidor Nombre="IDEAndalucia Orto2010-11" SrvUrl="http://www.ideandalucia.es/wms/ortofoto2010?" ImgMaxX="3500" ImgMaxY="3500">
+    <Capa Titulo="Orto2010-11" Nombre="orto_2010-11" Res="0,1" PLogo="0"/>
+  </Servidor> 
+    <Servidor Nombre="Ortofotografías de geoEuskadi" SrvUrl="http://www.geo.euskadi.eus/geoeuskadi/services/U11/WMS_ORTOARGAZKIAK/MapServer/WmsServer?" ImgMaxX="4000" ImgMaxY="4000">
+    <Capa Titulo="ORTO_EGUNERATUENA_MAXIMA_ACTUALIZADA" Nombre="ORTO_EGUNERATUENA_MAXIMA_ACTUALIZADA" Res="0,25" PLogo="0"/>
+  </Servidor>
+</ServidoresWMS>
