@@ -4,7 +4,11 @@
     <Activa>1</Activa>
     <MSG>"Fuera de servicio"</MSG>
   </Check>
-    <WMS>
+  <Check2>
+    <Activa>1</Activa>
+    <MSG>"Fuera de servicio"</MSG>
+  </Check2>
+  <WMS>
     <Activa>1</Activa>
     <MSG>"Fuera de servicio"</MSG>
   </WMS>
