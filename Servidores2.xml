@@ -13,6 +13,7 @@
     <Capa Titulo="Ortofoto de Catalunya 1_25.000 vigent" Nombre="orto25m" Res="2,5" PLogo="0"/>
     </Servidor>
   <Servidor Nombre="ICGC ortoXpres" SrvUrl="http://geoserveis.icgc.cat/icc_ortoxpres/wms/service?" ImgMaxX="2000" ImgMaxY="2000">
+	<Capa Titulo="Catalunya 25cm. 2019" Nombre="ox3dcat25c2019" Res="0,25" PLogo="0"/>
 	<Capa Titulo="Catalunya 25cm. 2018" Nombre="ox3dcat25c2018" Res="0,25" PLogo="0"/>
 	<Capa Titulo="Catalunya 35cm. 2018" Nombre="ox3dcat35c2018" Res="0,35" PLogo="0"/>
     <Capa Titulo="Catalunya 25cm. 2017" Nombre="ox3dcat25c2017" Res="0,25" PLogo="0"/>
