@@ -5,23 +5,16 @@
     <Capa Titulo="Topografic 10000" Nombre="mtc10m" Res="1" PLogo="0"/>
     <Capa Titulo="Topografic 25000" Nombre="mtc25m" Res="2,5" PLogo="0"/>
     <Capa Titulo="Topografic 50000" Nombre="mtc50m" Res="5" PLogo="0"/>
-    <Capa Titulo="Ortofofo 25c" Nombre="orto25c" Res="0,25" PLogo="0"/>
-    <Capa Titulo="Ortofofo 25c(2009)" Nombre="orto25c2009" Res="0,25" PLogo="0"/>
-    <Capa Titulo="Ortofofo 25c(2008)" Nombre="orto25c2008" Res="0,25" PLogo="0"/>
-    <Capa Titulo="Ortofofo 5000" Nombre="orto5m" Res="0,5" PLogo="0"/>
-    <Capa Titulo="Ortofofo 5000(2008)" Nombre="orto5m2008" Res="0,5" PLogo="0"/>
-    <Capa Titulo="Ortofofo 25m" Nombre="orto25m" Res="2,5" PLogo="0"/>
-    <Capa Titulo="Ortofofo 10c" Nombre="orto10c" Res="0,1" PLogo="0"/>
-    <Capa Titulo="Ortofofo 10c(2010)" Nombre="orto10c2010" Res="0,1" PLogo="0"/>
+    <Capa Titulo="Ortofoto de Catalunya 1_1000 vigent" Nombre="orto10c" Res="0,1" PLogo="0"/>
+    <Capa Titulo="Ortofoto de Catalunya 1_2.500 vigent" Nombre="orto25c" Res="0,25" PLogo="0"/>
+    <Capa Titulo="Ortofoto de Catalunya 1_25.000 vigent" Nombre="orto25m" Res="2,5" PLogo="0"/>
     </Servidor>
   <Servidor Nombre="OrtoXpres" SrvUrl="http://geoserveis.icgc.cat/icc_ortoxpres/wms/service?" ImgMaxX="1950" ImgMaxY="1950">
-    <Capa Titulo="Catalunya 50cm. 2016" Nombre="ox3dcat50c2016" Res="0,50" PLogo="0"/>
-    <Capa Titulo="Catalunya 25cm. 2016" Nombre="ox3dcat25c2016" Res="0,25" PLogo="0"/>
-	<Capa Titulo="Catalunya 50cm. 2015" Nombre="ox3dcat50c2015" Res="0,50" PLogo="0"/>
-    <Capa Titulo="Catalunya 25cm. 2015" Nombre="ox3dcat25c2015" Res="0,25" PLogo="0"/>
-    <Capa Titulo="Nuclis Urbans 7.5cm. 2016" Nombre="ox3durbanes2016" Res="0,075" PLogo="0"/>
-    <Capa Titulo="Catalunya NDVI. 2016" Nombre="ox3dndvi2016" Res="0,25" PLogo="0"/>
-    <Capa Titulo="Catalunya Costa 10cm. Hivern 2016" Nombre="ox3dcosta2016hivern" Res="0,1" PLogo="0"/>
+	<Capa Titulo="Catalunya 25cm. 2019" Nombre="ox3dcat25c2019" Res="0,25" PLogo="0"/>
+	<Capa Titulo="Catalunya 25cm. 2018" Nombre="ox3dcat25c2018" Res="0,25" PLogo="0"/>
+	<Capa Titulo="Catalunya 35cm. 2018" Nombre="ox3dcat35c2018" Res="0,35" PLogo="0"/>
+    <Capa Titulo="Catalunya 25cm. 2017" Nombre="ox3dcat25c2017" Res="0,25" PLogo="0"/>
+	<Capa Titulo="Catalunya 50cm. 2017" Nombre="ox3dcat50c2017" Res="0,50" PLogo="0"/>
     <Capa Titulo="Catalunya 1956-57" Nombre="ox3dvolamerica1956" Res="0,5" PLogo="0"/>
   </Servidor>
     <Servidor Nombre="IGN" SrvUrl="http://www.ign.es/wms-inspire/mapa-raster?" ImgMaxX="1950" ImgMaxY="1950">
@@ -41,7 +34,9 @@
     <Capa Titulo="01Parcela+subparcela" Nombre="parcela,txtparcela,subparce,txtsubparce,limites,constru" Res="0,1" PLogo="2"/>
   </Servidor>
   <Servidor Nombre="PNOA" SrvUrl="http://www.idee.es/wms/PNOA/PNOA?" ImgMaxX="1950" ImgMaxY="1950">
-    <Capa Titulo="pnoa" Nombre="pnoa" Res="0,5" PLogo="0"/>
+    <Capa Titulo="PNOA-MA 1_2.500" Nombre="OI.OrthoimageCoverage" Res="0,25" PLogo="0"/>
+	<Capa Titulo="PNOA-MA 1_5.000" Nombre="OI.OrthoimageCoverage" Res="0,50" PLogo="0"/>
+	<Capa Titulo="PNOA-MA 1_10.000" Nombre="OI.OrthoimageCoverage" Res="1" PLogo="0"/>
   </Servidor>
   <Servidor Nombre="MUC" SrvUrl="http://ptop.gencat.cat/webmap/MUC/Request.aspx?" ImgMaxX="3950" ImgMaxY="3950">
     <Capa Titulo="Mapa_Urbanistic_Catalunya" Nombre="MUC" Res="1" PLogo="0"/>
