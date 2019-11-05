@@ -46,8 +46,8 @@
 	<Capa Titulo="Sat 2002 IB 10m" Nombre="1" Res="10" PLogo="0"/>
   </Servidor>
     <Servidor Nombre="Ortofoto zones urbanes 2004 10c de les Illes Balears." SrvUrl="http://ideib.caib.es/pub_ideib/public/IMATGES_OR2004_5_R10/MapServer/WMSServer?" ImgMaxX="2000" ImgMaxY="2000">
-    <Capa Titulo="Ortofoto de 2004 10c zones urbanes Mallorca" Nombre="4" Res="0,1" PLogo="0"/>
-	<Capa Titulo="Ortofoto de 2004 10c zones urbanes Menorca Pitiuses" Nombre="2" Res="0,1" PLogo="0"/>
+    <Capa Titulo="Ortofoto de 2004 10c zones urbanes Mallorca" Nombre="1" Res="0,1" PLogo="0"/>
+	<Capa Titulo="Ortofoto de 2004 10c zones urbanes Menorca Pitiuses" Nombre="0" Res="0,1" PLogo="0"/>
   </Servidor>
   <Servidor Nombre="Topografic Nuclis Urbans Illes Balears" SrvUrl="http://ideib.caib.es/pub_ideib/public/TOPOGRAFIC_1M/MapServer/WMSServer?" ImgMaxX="2000" ImgMaxY="2000">
     <Capa Titulo="Topografic 1_1.000 IB Nuclis Urbans" Nombre="1,2,3,4,5,6,7,8,9,10,11,13,15,17,19,21,22" Res="0,1" PLogo="0"/>
