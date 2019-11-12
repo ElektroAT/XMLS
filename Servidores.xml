@@ -34,9 +34,7 @@
     <Capa Titulo="01Parcela+subparcela" Nombre="parcela,txtparcela,subparce,txtsubparce,limites,constru" Res="0,1" PLogo="2"/>
   </Servidor>
   <Servidor Nombre="PNOA" SrvUrl="http://www.idee.es/wms/PNOA/PNOA?" ImgMaxX="1950" ImgMaxY="1950">
-    <Capa Titulo="PNOA-MA 1_2.500" Nombre="OI.OrthoimageCoverage" Res="0,25" PLogo="0"/>
-	<Capa Titulo="PNOA-MA 1_5.000" Nombre="OI.OrthoimageCoverage" Res="0,50" PLogo="0"/>
-	<Capa Titulo="PNOA-MA 1_10.000" Nombre="OI.OrthoimageCoverage" Res="1" PLogo="0"/>
+    <Capa Titulo="pnoa" Nombre="pnoa" Res="0,5" PLogo="0" />
   </Servidor>
   <Servidor Nombre="MUC" SrvUrl="http://ptop.gencat.cat/webmap/MUC/Request.aspx?" ImgMaxX="3950" ImgMaxY="3950">
     <Capa Titulo="Mapa_Urbanistic_Catalunya" Nombre="MUC" Res="1" PLogo="0"/>
