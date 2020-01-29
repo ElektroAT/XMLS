@@ -74,7 +74,7 @@
     <Capa Titulo="ORTO_EGUNERATUENA_MAXIMA_ACTUALIZADA" Nombre="ORTO_EGUNERATUENA_MAXIMA_ACTUALIZADA" Res="0,25" PLogo="0"/>
   </Servidor>
     <Servidor Nombre="Dominio Público Marítimo Terrestre" SrvUrl="http://wms.mapama.gob.es/sig/Costas/DPMT/wms.aspx?" ImgMaxX="4000" ImgMaxY="4000">
-    <Capa Titulo="Dominio Público Marítimo Terrestre" Nombre="Dominio Público Marítimo Terrestre" Res="0,1" PLogo="0"/>
+    <Capa Titulo="Dominio Público Marítimo Terrestre" Nombre="Dominio Público Marítimo Terrestre" Res="0,25" PLogo="0"/>
   </Servidor>
   <Servidor Nombre="MinisterioEnergia(Chile)" SrvUrl="http://sig.minenergia.cl/geoserver/men/wms?" ImgMaxX="1950" ImgMaxY="1950">
     <Capa Titulo="Línea de Transmisión Aysen" Nombre="lt_aysen_1e53e92a_60f0_49fb_ad34_479556b98cba" Res="1" PLogo="0"/>
