@@ -8,6 +8,10 @@
     <Activa>1</Activa>
     <MSG>"Fuera de servicio"</MSG>
   </Check2>
+  <Check3>
+    <Activa>1</Activa>
+    <MSG>"Fuera de servicio"</MSG>
+  </Check3>
   <WMS>
     <Activa>1</Activa>
     <MSG>"Fuera de servicio"</MSG>
