@@ -19,7 +19,7 @@
         <Capa Titulo="Catalunya 35cm 2020" Nombre="ox3dcat35c2020" Res="0,35" PLogo="0"/>
         <Capa Titulo="Catalunya 1956-57" Nombre="ox3dvolamerica1956" Res="0,5" PLogo="0"/>
     </Servidor>
-    <Servidor Nombre="Cartografía Ráster de España del IGN" SrvUrl="http://www.ign.es/wms-inspire/mapa-raster?" ImgMaxX="4050" ImgMaxY="4050">
+    <Servidor Nombre="Cartografía Ráster de España del IGN" SrvUrl="http://www.ign.es/wms-inspire/mapa-raster?" ImgMaxX="4000" ImgMaxY="4000">
         <Capa Titulo="Mapas raster del IGN 1_5000" Nombre="mtn_rasterizado" Res="1" PLogo="0"/>
         <Capa Titulo="Mapas raster del IGN 1_25000" Nombre="mtn_rasterizado" Res="1,9" PLogo="0"/>
         <Capa Titulo="Mapas raster del IGN 1_50000" Nombre="mtn_rasterizado" Res="10" PLogo="0"/>
@@ -28,7 +28,7 @@
         <Capa Titulo="Mapas raster del IGN 1_1250000" Nombre="mtn_rasterizado" Res="133" PLogo="0"/>
         <Capa Titulo="Mapas raster del IGN 1_2000000" Nombre="mtn_rasterizado" Res="531" PLogo="0"/>
     </Servidor> 
-      <Servidor Nombre="Mapa Base de España IGN" SrvUrl="https://www.ign.es/wms-inspire/ign-base?" ImgMaxX="4050" ImgMaxY="4050">
+      <Servidor Nombre="Mapa Base de España IGN" SrvUrl="https://www.ign.es/wms-inspire/ign-base?" ImgMaxX="4000" ImgMaxY="4000">
         <Capa Titulo="IGNBaseTodo 1_5000" Nombre="IGNBaseTodo" Res="0,5" PLogo="0"/>
         <Capa Titulo="IGNBaseTodo 1_10000" Nombre="IGNBaseTodo" Res="1" PLogo="0"/>
         <Capa Titulo="IGNBaseTodo 1_25000" Nombre="IGNBaseTodo" Res="2,5" PLogo="0"/>
@@ -40,14 +40,14 @@
         <Capa Titulo="IGNBaseTodo-gris 1_50000" Nombre="IGNBaseTodo-gris" Res="5" PLogo="0"/>
         <Capa Titulo="IGNBaseTodo-gris 1_100000" Nombre="IGNBaseTodo-gris" Res="10" PLogo="0"/>
     </Servidor>
-    <Servidor Nombre="Hidrografía de España IDEE" SrvUrl="https://servicios.idee.es/wms-inspire/hidrografia?" ImgMaxX="4050" ImgMaxY="4050">
+    <Servidor Nombre="Hidrografía de España IDEE" SrvUrl="https://servicios.idee.es/wms-inspire/hidrografia?" ImgMaxX="4000" ImgMaxY="4000">
         <Capa Titulo="Hidrografía de España 1_5000" Nombre="HY.PhysicalWaters.ManMadeObject,HY.PhysicalWaters.LandWaterBoundary,HY.Network,HY.PhysicalWaters.Waterbodies,HY.PhysicalWaters.Wetland,HY.PhysicalWaters.Catchments" Res="0,5" PLogo="0"/>
         <Capa Titulo="Hidrografía de España 1_10000" Nombre="HY.PhysicalWaters.ManMadeObject,HY.PhysicalWaters.LandWaterBoundary,HY.Network,HY.PhysicalWaters.Waterbodies,HY.PhysicalWaters.Wetland,HY.PhysicalWaters.Catchments" Res="1" PLogo="0"/>
         <Capa Titulo="Hidrografía de España 1_25000" Nombre="HY.PhysicalWaters.ManMadeObject,HY.PhysicalWaters.LandWaterBoundary,HY.Network,HY.PhysicalWaters.Waterbodies,HY.PhysicalWaters.Wetland,HY.PhysicalWaters.Catchments" Res="2,5" PLogo="0"/>
         <Capa Titulo="Hidrografía de España 1_50000" Nombre="HY.PhysicalWaters.ManMadeObject,HY.PhysicalWaters.LandWaterBoundary,HY.Network,HY.PhysicalWaters.Waterbodies,HY.PhysicalWaters.Wetland,HY.PhysicalWaters.Catchments" Res="5" PLogo="0"/>
         <Capa Titulo="Hidrografía de España 1_100000" Nombre="HY.PhysicalWaters.ManMadeObject,HY.PhysicalWaters.LandWaterBoundary,HY.Network,HY.PhysicalWaters.Waterbodies,HY.PhysicalWaters.Wetland,HY.PhysicalWaters.Catchments" Res="10" PLogo="0"/>
     </Servidor>
-    <Servidor Nombre="Redes de transporte de España IDEE" SrvUrl="https://servicios.idee.es/wms-inspire/transportes?" ImgMaxX="4050" ImgMaxY="4050">
+    <Servidor Nombre="Redes de transporte de España IDEE" SrvUrl="https://servicios.idee.es/wms-inspire/transportes?" ImgMaxX="4000" ImgMaxY="4000">
         <Capa Titulo="Redes de transporte de España 1_5000" Nombre="TN.RailTransportNetwork.RailwayLink,TN.RoadTransportNetwork.RoadLink,TN.AirTransportNetwork.RunwayArea,TN.AirTransportNetwork.TaxiwayArea,TN.AirTransportNetwork.ApronArea,TN.RoadTransportNetwork.RoadServiceArea,TN.RailTransportNetwork.RailwayStationArea,TN.AirTransportNetwork.AerodromeArea,TN.WaterTransportNetwork.PortArea" Res="0,5" PLogo="0"/>
         <Capa Titulo="Redes de transporte de España 1_10000" Nombre="TN.RailTransportNetwork.RailwayLink,TN.RoadTransportNetwork.RoadLink,TN.AirTransportNetwork.RunwayArea,TN.AirTransportNetwork.TaxiwayArea,TN.AirTransportNetwork.ApronArea,TN.RoadTransportNetwork.RoadServiceArea,TN.RailTransportNetwork.RailwayStationArea,TN.AirTransportNetwork.AerodromeArea,TN.WaterTransportNetwork.PortArea" Res="1" PLogo="0"/>
         <Capa Titulo="Redes de transporte de España 1_25000" Nombre="TN.RailTransportNetwork.RailwayLink,TN.RoadTransportNetwork.RoadLink,TN.AirTransportNetwork.RunwayArea,TN.AirTransportNetwork.TaxiwayArea,TN.AirTransportNetwork.ApronArea,TN.RoadTransportNetwork.RoadServiceArea,TN.RailTransportNetwork.RailwayStationArea,TN.AirTransportNetwork.AerodromeArea,TN.WaterTransportNetwork.PortArea" Res="2,5" PLogo="0"/>
@@ -65,12 +65,12 @@
         <Capa Titulo="Parcela 1_10.000" Nombre="parcela,txtparcela,limites,constru" Res="1" PLogo="20"/>
         <Capa Titulo="Parcela+subparcela 1_10.000" Nombre="parcela,txtparcela,subparce,txtsubparce,limites,constru" Res="1" PLogo="20"/>
     </Servidor>
-    <Servidor Nombre="PNOA Ortofotos máxima actualidad" SrvUrl="http://www.ign.es/wms-inspire/pnoa-ma?" ImgMaxX="4050" ImgMaxY="4050">
+    <Servidor Nombre="PNOA Ortofotos máxima actualidad" SrvUrl="http://www.ign.es/wms-inspire/pnoa-ma?" ImgMaxX="4000" ImgMaxY="4000">
         <Capa Titulo="PNOA-MA 1_2.500" Nombre="OI.OrthoimageCoverage" Res="0,25" PLogo="0"/>
         <Capa Titulo="PNOA-MA 1_5.000" Nombre="OI.OrthoimageCoverage" Res="0,50" PLogo="0"/>
         <Capa Titulo="PNOA-MA 1_10.000" Nombre="OI.OrthoimageCoverage" Res="1" PLogo="0"/>
     </Servidor>
-    <Servidor Nombre="PNOA-Histórico" SrvUrl="https://www.ign.es/wms/pnoa-historico?" ImgMaxX="4050" ImgMaxY="4050">
+    <Servidor Nombre="PNOA-Histórico" SrvUrl="https://www.ign.es/wms/pnoa-historico?" ImgMaxX="4000" ImgMaxY="4000">
         <Capa Titulo="Ortofotos Expeditas Cobertura Parcial(2021)_1_2500" Nombre="OrtoimagenExpedita2021" Res="0,25" PLogo="0"/>
         <Capa Titulo="Ortofotos Expeditas Cobertura Parcial(2021)_1_5000" Nombre="OrtoimagenExpedita2021" Res="0,50" PLogo="0"/>
         <Capa Titulo="Ortofotos Expeditas Cobertura Parcial(2021)_1_10000" Nombre="OrtoimagenExpedita2021" Res="1" PLogo="0"/>
@@ -89,17 +89,17 @@
         <Capa Titulo="Vuelo Interministerial (1973-1986)_1_5000" Nombre="Interministerial_1973-1986" Res="0,5" PLogo="0"/>
         <Capa Titulo="Vuelo Americano (Serie B 1956-1957)_1_5000" Nombre="AMS_1956-1957" Res="0,5" PLogo="0"/>
     </Servidor>
-    <Servidor Nombre="Ortofoto Illes Balears 2018-19" SrvUrl="https://ideib.caib.es/geoserveis/services/imatges/GOIB_Ortofoto_2018_IB/MapServer/WMSServer?" ImgMaxX="4050" ImgMaxY="4050">
+    <Servidor Nombre="Ortofoto Illes Balears 2018-19" SrvUrl="https://ideib.caib.es/geoserveis/services/imatges/GOIB_Ortofoto_2018_IB/MapServer/WMSServer?" ImgMaxX="4000" ImgMaxY="4000">
         <Capa Titulo="Ortofoto 2018-19 IB 15cm" Nombre="0" Res="0,15" PLogo="0"/>
     </Servidor>
-    <Servidor Nombre="Base Topografica Illes Balears" SrvUrl="https://ideib.caib.es/geoserveis/services/public/GOIB_BTIB_CAU_IB/MapServer/WMSServer?" ImgMaxX="4050" ImgMaxY="4050">
+    <Servidor Nombre="Base Topografica Illes Balears" SrvUrl="https://ideib.caib.es/geoserveis/services/public/GOIB_BTIB_CAU_IB/MapServer/WMSServer?" ImgMaxX="4000" ImgMaxY="4000">
         <Capa Titulo="GOIB_BTIB_IB_1_1000" Nombre="0" Res="0,1" PLogo="0"/>
         <Capa Titulo="GOIB_BTIB_IB_1_2000" Nombre="0" Res="0,2" PLogo="0"/>
         <Capa Titulo="GOIB_BTIB_IB_1_5000" Nombre="0" Res="0,5" PLogo="0"/>
         <Capa Titulo="GOIB_BTIB_IB_1_10000" Nombre="0" Res="1" PLogo="0"/>
         <Capa Titulo="GOIB_BTIB_IB_1_100000" Nombre="0" Res="10" PLogo="0"/>
     </Servidor>
-    <Servidor Nombre="Ortofotografías de geoEuskadi" SrvUrl="https://www.geo.euskadi.eus/WMS_ORTOARGAZKIAK?" ImgMaxX="4050" ImgMaxY="4050">
+    <Servidor Nombre="Ortofotografías de geoEuskadi" SrvUrl="https://www.geo.euskadi.eus/WMS_ORTOARGAZKIAK?" ImgMaxX="4000" ImgMaxY="4000">
         <Capa Titulo="ORTO_EGUNERATUENA_MAS_ACTUALIZADA" Nombre="ORTO_EGUNERATUENA_MAS_ACTUALIZADA" Res="0,25" PLogo="0"/>
         <Capa Titulo="ORTO_RAPIDA_2021" Nombre="ORTO_RAPIDA_2021" Res="0,25" PLogo="0"/>
         <Capa Titulo="ORTO_2020" Nombre="ORTO_2020" Res="0,25" PLogo="0"/>
