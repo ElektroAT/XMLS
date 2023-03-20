@@ -101,7 +101,8 @@
     </Servidor>
     <Servidor Nombre="Ortofotografías de geoEuskadi" SrvUrl="https://www.geo.euskadi.eus/WMS_ORTOARGAZKIAK?" ImgMaxX="4000" ImgMaxY="4000">
         <Capa Titulo="ORTO_EGUNERATUENA_MAS_ACTUALIZADA" Nombre="ORTO_EGUNERATUENA_MAS_ACTUALIZADA" Res="0,25" PLogo="0"/>
-        <Capa Titulo="ORTO_RAPIDA_2021" Nombre="ORTO_RAPIDA_2021" Res="0,25" PLogo="0"/>
+        <Capa Titulo="ORTO_2022_Rapida" Nombre="ORTO_2022_Rapida" Res="0,25" PLogo="0"/>
+	<Capa Titulo="ORTO_2021" Nombre="ORTO_2021" Res="0,25" PLogo="0"/>
         <Capa Titulo="ORTO_2020" Nombre="ORTO_2020" Res="0,25" PLogo="0"/>
         <Capa Titulo="ORTO_2019" Nombre="ORTO_2019" Res="0,25" PLogo="0"/>
         <Capa Titulo="ORTO_2018" Nombre="ORTO_2018" Res="0,25" PLogo="0"/>
