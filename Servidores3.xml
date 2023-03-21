@@ -12,6 +12,34 @@
         <Capa Titulo="Ortofoto de Catalunya 1_2.500 vigent" Nombre="orto25c" Res="0,25" PLogo="0"/>
         <Capa Titulo="Ortofoto de Catalunya 1_25.000 vigent" Nombre="orto25m" Res="2,5" PLogo="0"/>
     </Servidor>
+    <Servidor Nombre="ICGC Ortofotos Historicas" SrvUrl="https://geoserveis.icgc.cat/servei/catalunya/orto-territorial/wms?" ImgMaxX="4000" ImgMaxY="4000">
+        <Capa Titulo="ICGC_Ortofoto color provisional 1_2.500" Nombre="ortofoto_color_provisional" Res="0,25" PLogo="0"/>
+        <Capa Titulo="ICGC_Ortofoto color 2021 1_2.500" Nombre="ortofoto_25cm_color_2021" Res="0,25" PLogo="0"/>
+        <Capa Titulo="ICGC_Ortofoto color 2020 1_2.500" Nombre="ortofoto_25cm_color_2020" Res="0,25" PLogo="0"/>
+	<Capa Titulo="ICGC_Ortofoto color 2020 AMB 1_1.000" Nombre="ortofoto_10cm_color_2020" Res="0,1" PLogo="0"/>
+        <Capa Titulo="ICGC_Ortofoto color 2019 1_2.500" Nombre="ortofoto_25cm_color_2019" Res="0,25" PLogo="0"/>
+        <Capa Titulo="ICGC_Ortofoto color 2018 1_2.500" Nombre="ortofoto_25cm_color_2018" Res="0,25" PLogo="0"/>
+        <Capa Titulo="ICGC_Ortofoto color 2017 1_2.500" Nombre="ortofoto_25cm_color_2017" Res="0,25" PLogo="0"/>
+        <Capa Titulo="ICGC_Ortofoto color 2016 1_2.500" Nombre="ortofoto_25cm_color_2016" Res="0,25" PLogo="0"/>
+        <Capa Titulo="ICGC_Ortofoto color 2015 1_2.500" Nombre="ortofoto_25cm_color_2015" Res="0,25" PLogo="0"/>
+        <Capa Titulo="ICGC_Ortofoto color 2014 1_2.500" Nombre="ortofoto_25cm_color_2014" Res="0,25" PLogo="0"/>
+        <Capa Titulo="ICGC_Ortofoto color 2013 1_2.500" Nombre="ortofoto_25cm_color_2013" Res="0,25" PLogo="0"/>
+	<Capa Titulo="ICGC_Ortofoto color 2012 1_2.500" Nombre="ortofoto_25cm_color_2012" Res="0,25" PLogo="0"/>
+	<Capa Titulo="ICGC_Ortofoto color 2011 1_2.500" Nombre="ortofoto_25cm_color_2011" Res="0,25" PLogo="0"/>
+	<Capa Titulo="ICGC_Ortofoto color 2011 1_1.000" Nombre="ortofoto_10cm_color_2011" Res="0,25" PLogo="0"/>
+	<Capa Titulo="ICGC_Ortofoto color 2010 1_2.500" Nombre="ortofoto_25cm_color_2010" Res="0,25" PLogo="0"/>
+	<Capa Titulo="ICGC_Ortofoto color 2010 1_1.000" Nombre="ortofoto_10cm_color_2010" Res="0,1" PLogo="0"/>
+	<Capa Titulo="ICGC_Ortofoto color 2009 1_2.500" Nombre="ortofoto_25cm_color_2009" Res="0,25" PLogo="0"/>
+	<Capa Titulo="ICGC_Ortofoto color 2008 1_5.000" Nombre="ortofoto_50cm_color_2008" Res="0,5" PLogo="0"/>
+	<Capa Titulo="ICGC_Ortofoto color 2007 1_5.000" Nombre="ortofoto_50cm_color_2007" Res="0,5" PLogo="0"/>
+	<Capa Titulo="ICGC_Ortofoto color 2006 1_5.000" Nombre="ortofoto_50cm_color_2006" Res="0,5" PLogo="0"/>
+	<Capa Titulo="ICGC_Ortofoto color 2005 1_5.000" Nombre="ortofoto_50cm_color_2005" Res="0,5" PLogo="0"/>
+	<Capa Titulo="ICGC_Ortofoto color 2004 1_5.000" Nombre="ortofoto_50cm_color_2004" Res="0,5" PLogo="0"/>
+	<Capa Titulo="ICGC_Ortofoto color 2003 1_5.000" Nombre="ortofoto_50cm_color_2003" Res="0,5" PLogo="0"/>
+	<Capa Titulo="ICGC_Ortofoto color 2002 1_5.000" Nombre="ortofoto_50cm_color_2002" Res="0,5" PLogo="0"/>
+	<Capa Titulo="ICGC_Ortofoto color 2001 1_5.000" Nombre="ortofoto_50cm_color_2001" Res="0,5" PLogo="0"/>
+	<Capa Titulo="ICGC_Ortofoto color 2000 1_5.000" Nombre="ortofoto_50cm_color_2000" Res="0,5" PLogo="0"/>
+    </Servidor>
     <Servidor Nombre="ICGC ortoXpres" SrvUrl="http://geoserveis.icgc.cat/icc_ortoxpres/wms/service?" ImgMaxX="2000" ImgMaxY="2000">
         <Capa Titulo="Catalunya 25cm 2021" Nombre="ox3dcat25c2021" Res="0,25" PLogo="0"/>
         <Capa Titulo="Catalunya 35cm 2021" Nombre="ox3dcat35c2021" Res="0,35" PLogo="0"/>
