@@ -71,12 +71,6 @@
         <Capa Titulo="PNOA-MA 1_10.000" Nombre="OI.OrthoimageCoverage" Res="1" PLogo="0"/>
     </Servidor>
     <Servidor Nombre="PNOA-Histórico" SrvUrl="https://www.ign.es/wms/pnoa-historico?" ImgMaxX="4000" ImgMaxY="4000">
-        <Capa Titulo="Ortofotos Expeditas Cobertura Parcial(2021)_1_2500" Nombre="OrtoimagenExpedita2021" Res="0,25" PLogo="0"/>
-        <Capa Titulo="Ortofotos Expeditas Cobertura Parcial(2021)_1_5000" Nombre="OrtoimagenExpedita2021" Res="0,50" PLogo="0"/>
-        <Capa Titulo="Ortofotos Expeditas Cobertura Parcial(2021)_1_10000" Nombre="OrtoimagenExpedita2021" Res="1" PLogo="0"/>
-        <Capa Titulo="Ortofotos Expeditas Cobertura Parcial(2020)_1_2500" Nombre="OrtoimagenExpedita2020" Res="0,25" PLogo="0"/>
-        <Capa Titulo="Ortofotos Expeditas Cobertura Parcial(2020)_1_5000" Nombre="OrtoimagenExpedita2020" Res="0,50" PLogo="0"/>
-        <Capa Titulo="Ortofotos Expeditas Cobertura Parcial(2020)_1_10000" Nombre="OrtoimagenExpedita2020" Res="1" PLogo="0"/>
         <Capa Titulo="PNOA10-Galicia 2018 Cambre-Carballo-Lugo-Oleiros-Pontevedra-Sanxenxo_1_1000" Nombre="pnoa10_2018" Res="0,10" PLogo="0"/>
         <Capa Titulo="PNOA10-Madrid 2016_1_1000" Nombre="pnoa10_2016" Res="0,10" PLogo="0"/>
         <Capa Titulo="PNOA10-Madrid 2013_1_1000" Nombre="pnoa10_2013" Res="0,10" PLogo="0"/>
