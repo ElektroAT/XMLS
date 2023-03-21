@@ -12,7 +12,7 @@
         <Capa Titulo="Ortofoto de Catalunya 1_2.500 vigent" Nombre="orto25c" Res="0,25" PLogo="0"/>
         <Capa Titulo="Ortofoto de Catalunya 1_25.000 vigent" Nombre="orto25m" Res="2,5" PLogo="0"/>
     </Servidor>
-    <Servidor Nombre="ICGC Ortofotos Historicas" SrvUrl="https://geoserveis.icgc.cat/servei/catalunya/orto-territorial/wms?" ImgMaxX="4000" ImgMaxY="4000">
+    <Servidor Nombre="ICGC Ortofoto Territorial" SrvUrl="https://geoserveis.icgc.cat/servei/catalunya/orto-territorial/wms?" ImgMaxX="4000" ImgMaxY="4000">
         <Capa Titulo="ICGC_Ortofoto color provisional 1_2.500" Nombre="ortofoto_color_provisional" Res="0,25" PLogo="0"/>
         <Capa Titulo="ICGC_Ortofoto color 2021 1_2.500" Nombre="ortofoto_25cm_color_2021" Res="0,25" PLogo="0"/>
         <Capa Titulo="ICGC_Ortofoto color 2020 1_2.500" Nombre="ortofoto_25cm_color_2020" Res="0,25" PLogo="0"/>
