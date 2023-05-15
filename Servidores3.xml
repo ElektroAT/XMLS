@@ -10,6 +10,7 @@
         <Capa Titulo="Mapa topogràfic de Catalunya 1_1.000.000" Nombre="mtc1000m" Res="100" PLogo="0"/>
         <Capa Titulo="Ortofoto de Catalunya 1_1000 vigent" Nombre="orto10c" Res="0,1" PLogo="0"/>
         <Capa Titulo="Ortofoto de Catalunya 1_2.500 vigent" Nombre="orto25c" Res="0,25" PLogo="0"/>
+	<Capa Titulo="Ortofoto de Catalunya 1_5.000 vigent" Nombre="orto5m" Res="0,5" PLogo="0"/>
         <Capa Titulo="Ortofoto de Catalunya 1_25.000 vigent" Nombre="orto25m" Res="2,5" PLogo="0"/>
     </Servidor>
     <Servidor Nombre="ICGC Ortofoto Territorial" SrvUrl="https://geoserveis.icgc.cat/servei/catalunya/orto-territorial/wms?" ImgMaxX="4000" ImgMaxY="4000">
