@@ -158,11 +158,11 @@
         <Capa Titulo="ORTO_1945_46_AMERICANO" Nombre="ORTO_1945_46_AMERICANO" Res="0,25" PLogo="0"/>
     </Servidor>
     <Servidor Nombre="Ortofoto 2022 de la Comunitat Valenciana" SrvUrl="https://terramapas.icv.gva.es/0202_2022CVAL0025?" ImgMaxX="4000" ImgMaxY="4000">
-        <Capa Titulo="Ortofoto 2022 25cm. RGB Comunitat Valenciana" Nombre="2022CVAL0025_RGB" Res="0,25" PLogo="0"/>
-        <Capa Titulo="Ortofoto 2022 25cm. IRG Comunitat Valenciana" Nombre="2022CVAL0025_IRG" Res="0,25" PLogo="0"/>
+        <Capa Titulo="Ortofoto 2022 25cm RGB GVA" Nombre="2022CVAL0025_RGB" Res="0,25" PLogo="0"/>
+        <Capa Titulo="Ortofoto 2022 25cm IRG GVA" Nombre="2022CVAL0025_IRG" Res="0,25" PLogo="0"/>
     </Servidor>
     <Servidor Nombre="Ortofoto 2021 de la Comunitat Valenciana" SrvUrl="https://terramapas.icv.gva.es/0202_2021CVAL0025?" ImgMaxX="4000" ImgMaxY="4000">
-	<Capa Titulo="Ortofoto 2021 25cm. RGB Comunitat Valenciana" Nombre="2021CVAL0025_RGB" Res="0,25" PLogo="0"/>
-        <Capa Titulo="Ortofoto 2021 25cm. IRG Comunitat Valenciana" Nombre="2021CVAL0025_IRG" Res="0,25" PLogo="0"/>
+	<Capa Titulo="Ortofoto 2021 25cm RGB GVA" Nombre="2021CVAL0025_RGB" Res="0,25" PLogo="0"/>
+        <Capa Titulo="Ortofoto 2021 25cm IRG GVA" Nombre="2021CVAL0025_IRG" Res="0,25" PLogo="0"/>
     </Servidor>
 </ServidoresWMS>
