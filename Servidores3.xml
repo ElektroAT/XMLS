@@ -129,7 +129,8 @@
     </Servidor>
     <Servidor Nombre="Ortofotografías de geoEuskadi" SrvUrl="https://www.geo.euskadi.eus/WMS_ORTOARGAZKIAK?" ImgMaxX="4000" ImgMaxY="4000">
         <Capa Titulo="ORTO_EGUNERATUENA_MAS_ACTUALIZADA" Nombre="ORTO_EGUNERATUENA_MAS_ACTUALIZADA" Res="0,25" PLogo="0"/>
-        <Capa Titulo="ORTO_2022_Rapida" Nombre="ORTO_2022_Rapida" Res="0,25" PLogo="0"/>
+        <Capa Titulo="ORTO_Expedita_2023" Nombre="ORTO_Expedita_2023" Res="0,25" PLogo="0"/>
+	<Capa Titulo="ORTO_2022" Nombre="ORTO_2022" Res="0,25" PLogo="0"/>
 	<Capa Titulo="ORTO_2021" Nombre="ORTO_2021" Res="0,25" PLogo="0"/>
         <Capa Titulo="ORTO_2020" Nombre="ORTO_2020" Res="0,25" PLogo="0"/>
         <Capa Titulo="ORTO_2019" Nombre="ORTO_2019" Res="0,25" PLogo="0"/>
@@ -150,16 +151,8 @@
         <Capa Titulo="ORTO_2004" Nombre="ORTO_2004" Res="0,25" PLogo="0"/>
         <Capa Titulo="ORTO_2002" Nombre="ORTO_2002" Res="0,25" PLogo="0"/>
         <Capa Titulo="ORTO_2001" Nombre="ORTO_2001" Res="0,25" PLogo="0"/>
-        <Capa Titulo="ORTO_DFA_1998" Nombre="ORTO_DFA_1998" Res="0,25" PLogo="0"/>
-        <Capa Titulo="ORTO_DFB_1995" Nombre="ORTO_DFB_1995" Res="0,25" PLogo="0"/>
         <Capa Titulo="ORTO_1991" Nombre="ORTO_1991" Res="0,25" PLogo="0"/>
-        <Capa Titulo="ORTO_DFB_1990_CATASTRO" Nombre="ORTO_DFB_1990_CATASTRO" Res="0,25" PLogo="0"/>
-        <Capa Titulo="ORTO_DFB_1990" Nombre="ORTO_DFB_1990" Res="0,25" PLogo="0"/>
-        <Capa Titulo="ORTO_1984_85" Nombre="ORTO_1984_85" Res="0,25" PLogo="0"/>
-        <Capa Titulo="ORTO_DFB_1983" Nombre="ORTO_DFB_1983" Res="0,25" PLogo="0"/>
         <Capa Titulo="ORTO_INTERMINISTERIAL_1977_78" Nombre="ORTO_INTERMINISTERIAL_1977_78" Res="0,25" PLogo="0"/>
-        <Capa Titulo="ORTO_DFB_1965" Nombre="ORTO_DFB_1965" Res="0,25" PLogo="0"/>
-        <Capa Titulo="ORTO_1956_57_AMERICANO" Nombre="ORTO_1956_57_AMERICANO" Res="0,25" PLogo="0"/>
         <Capa Titulo="ORTO_1945_46_AMERICANO" Nombre="ORTO_1945_46_AMERICANO" Res="0,25" PLogo="0"/>
     </Servidor>
     <Servidor Nombre="Ortofoto 2022 de la Comunitat Valenciana" SrvUrl="https://terramapas.icv.gva.es/0202_2022CVAL0025?" ImgMaxX="4000" ImgMaxY="4000">
