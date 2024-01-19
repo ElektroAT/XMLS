@@ -112,6 +112,11 @@
         <Capa Titulo="Vuelo Interministerial (1973-1986)_1_5000" Nombre="Interministerial_1973-1986" Res="0,5" PLogo="0"/>
         <Capa Titulo="Vuelo Americano (Serie B 1956-1957)_1_5000" Nombre="AMS_1956-1957" Res="0,5" PLogo="0"/>
     </Servidor>
+    <Servidor Nombre="IDEARAGON Imagenes" SrvUrl="https://icearagon.aragon.es/AragonFoto?" ImgMaxX="3950" ImgMaxY="3950">
+        <Capa Titulo="AragonFoto (2018) 1_2.500" Nombre="orto_reciente" Res="0,25" PLogo="0"/>
+        <Capa Titulo="AragonFoto (2018) 1_5.000" Nombre="orto_reciente" Res="0,50" PLogo="0"/>
+        <Capa Titulo="AragonFoto (2018) 1_10.000" Nombre="orto_reciente" Res="1" PLogo="0"/>
+    </Servidor>
     <Servidor Nombre="Ortofoto Illes Balears 2018-19" SrvUrl="https://ideib.caib.es/geoserveis/services/imatges/GOIB_Ortofoto_2018_IB/MapServer/WMSServer?" ImgMaxX="4000" ImgMaxY="4000">
         <Capa Titulo="Ortofoto 2018-19 IB 15cm" Nombre="0" Res="0,15" PLogo="0"/>
     </Servidor>
