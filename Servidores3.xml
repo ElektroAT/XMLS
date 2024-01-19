@@ -15,6 +15,7 @@
     </Servidor>
     <Servidor Nombre="ICGC Ortofoto Territorial" SrvUrl="https://geoserveis.icgc.cat/servei/catalunya/orto-territorial/wms?" ImgMaxX="4000" ImgMaxY="4000">
         <Capa Titulo="ICGC_Ortofoto color provisional 1_2.500" Nombre="ortofoto_color_provisional" Res="0,25" PLogo="0"/>
+	<Capa Titulo="ICGC_Ortofoto color 2022 1_2.500" Nombre="ortofoto_25cm_color_2022" Res="0,25" PLogo="0"/>
         <Capa Titulo="ICGC_Ortofoto color 2021 1_2.500" Nombre="ortofoto_25cm_color_2021" Res="0,25" PLogo="0"/>
         <Capa Titulo="ICGC_Ortofoto color 2020 1_2.500" Nombre="ortofoto_25cm_color_2020" Res="0,25" PLogo="0"/>
 	<Capa Titulo="ICGC_Ortofoto color 2020 AMB 1_1.000" Nombre="ortofoto_10cm_color_2020" Res="0,1" PLogo="0"/>
