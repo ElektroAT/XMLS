@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ServidoresWMS>
-    <Servidor Nombre="ICGC Institut Cartogràfic i Geològic de Catalunya" SrvUrl="http://shagrat.icc.es/lizardtech/iserv/ows?" ImgMaxX="2000" ImgMaxY="2000">
-        <Capa Titulo="Mapa topogràfic de Catalunya 1_5.000" Nombre="mtc5m" Res="0,5" PLogo="0"/>
-        <Capa Titulo="Mapa topogràfic de Catalunya 1_10.000" Nombre="mtc10m" Res="1" PLogo="0"/>
-        <Capa Titulo="Mapa topogràfic de Catalunya 1_25.000" Nombre="mtc25m" Res="2,5" PLogo="0"/>
-        <Capa Titulo="Mapa topogràfic de Catalunya 1_50.000" Nombre="mtc50m" Res="5" PLogo="0"/>
-        <Capa Titulo="Mapa topogràfic de Catalunya 1_250.000" Nombre="mtc250m" Res="25" PLogo="0"/>
-        <Capa Titulo="Mapa topogràfic de Catalunya 1_500.000" Nombre="mtc500m" Res="50" PLogo="0"/>
-        <Capa Titulo="Mapa topogràfic de Catalunya 1_1.000.000" Nombre="mtc1000m" Res="100" PLogo="0"/>
-        <Capa Titulo="Ortofoto de Catalunya 1_1000 vigent" Nombre="orto10c" Res="0,1" PLogo="0"/>
-        <Capa Titulo="Ortofoto de Catalunya 1_2.500 vigent" Nombre="orto25c" Res="0,25" PLogo="0"/>
-	<Capa Titulo="Ortofoto de Catalunya 1_5.000 vigent" Nombre="orto5m" Res="0,5" PLogo="0"/>
-        <Capa Titulo="Ortofoto de Catalunya 1_25.000 vigent" Nombre="orto25m" Res="2,5" PLogo="0"/>
+    <Servidor Nombre="ICGC topografia territorial " SrvUrl="https://geoserveis.icgc.cat/servei/catalunya/topografia-territorial/wms?" ImgMaxX="4000" ImgMaxY="4000">
+        <Capa Titulo="Mapa topogràfic de Catalunya 1_5.000" Nombre="topografia-territorial" Res="0,5" PLogo="0"/>
+        <Capa Titulo="Mapa topogràfic de Catalunya 1_10.000" Nombre="topografia-territorial" Res="1" PLogo="0"/>
+        <Capa Titulo="Mapa topogràfic de Catalunya 1_25.000" Nombre="topografia-territorial" Res="2,5" PLogo="0"/>
+        <Capa Titulo="Mapa topogràfic de Catalunya 1_50.000" Nombre="topografia-territorial" Res="5" PLogo="0"/>
+        <Capa Titulo="Mapa topogràfic de Catalunya 1_250.000" Nombre="topografia-territorial" Res="25" PLogo="0"/>
+        <Capa Titulo="Mapa topogràfic de Catalunya 1_500.000" Nombre="topografia-territorial" Res="50" PLogo="0"/>
+        <Capa Titulo="Mapa topogràfic de Catalunya 1_1.000.000" Nombre="topografia-territorial" Res="100" PLogo="0"/>
     </Servidor>
     <Servidor Nombre="ICGC Ortofoto Territorial" SrvUrl="https://geoserveis.icgc.cat/servei/catalunya/orto-territorial/wms?" ImgMaxX="4000" ImgMaxY="4000">
         <Capa Titulo="ICGC_Ortofoto color provisional 1_2.500" Nombre="ortofoto_color_provisional" Res="0,25" PLogo="0"/>
+	<Capa Titulo="ICGC_Ortofoto de Catalunya color vigent 1_2.500" Nombre="ortofoto_color_vigent" Res="0,25" PLogo="0"/>
+	<Capa Titulo="ICGC_Ortofoto color 2023 1_2.500" Nombre="ortofoto_25cm_color_2023" Res="0,25" PLogo="0"/>
 	<Capa Titulo="ICGC_Ortofoto color 2022 1_2.500" Nombre="ortofoto_25cm_color_2022" Res="0,25" PLogo="0"/>
         <Capa Titulo="ICGC_Ortofoto color 2021 1_2.500" Nombre="ortofoto_25cm_color_2021" Res="0,25" PLogo="0"/>
         <Capa Titulo="ICGC_Ortofoto color 2020 1_2.500" Nombre="ortofoto_25cm_color_2020" Res="0,25" PLogo="0"/>
