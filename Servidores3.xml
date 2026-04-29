@@ -42,16 +42,55 @@
 	</Servidor>
 	<Servidor Nombre="ICGC Mapa Base" SrvUrl="https://geoserveis.icgc.cat/servei/catalunya/mapa-base/wms?" ImgMaxX="4000" ImgMaxY="4000">
 		<Capa Titulo="Topogràfica rasteritzada 1_5.000" Nombre="topografic" Res="0,5" PLogo="0"/>
+		<Capa Titulo="Topogràfica rasteritzada 1_10.000" Nombre="topografic" Res="1" PLogo="0"/>
+		<Capa Titulo="Topogràfica rasteritzada 1_25.000" Nombre="topografic" Res="2,5" PLogo="0"/>
+		<Capa Titulo="Topogràfica rasteritzada 1_50.000" Nombre="topografic" Res="5" PLogo="0"/>
+		<Capa Titulo="Topogràfica rasteritzada 1_100.000" Nombre="topografic" Res="10" PLogo="0"/>
 		<Capa Titulo="Topogràfica gris rasteritzada 1_5.000" Nombre="topografic-gris" Res="0,5" PLogo="0"/>
+		<Capa Titulo="Topogràfica gris rasteritzada 1_10.000" Nombre="topografic-gris" Res="1" PLogo="0"/>
+		<Capa Titulo="Topogràfica gris rasteritzada 1_25.000" Nombre="topografic-gris" Res="2,5" PLogo="0"/>
+		<Capa Titulo="Topogràfica gris rasteritzada 1_50.000" Nombre="topografic-gris" Res="5" PLogo="0"/>
+		<Capa Titulo="Topogràfica gris rasteritzada 1_100.000" Nombre="topografic-gris" Res="10" PLogo="0"/>
 		<Capa Titulo="Simplificada rasteritzada 1_5.000" Nombre="simplificat" Res="0,5" PLogo="0"/>
+		<Capa Titulo="Simplificada rasteritzada 1_10.000" Nombre="simplificat" Res="1" PLogo="0"/>
+		<Capa Titulo="Simplificada rasteritzada 1_25.000" Nombre="simplificat" Res="2,5" PLogo="0"/>
+		<Capa Titulo="Simplificada rasteritzada 1_50.000" Nombre="simplificat" Res="5" PLogo="0"/>
+		<Capa Titulo="Simplificada rasteritzada 1_100.000" Nombre="simplificat" Res="10" PLogo="0"/>
 		<Capa Titulo="Administrativa rasteritzada 1_5.000" Nombre="administratiu" Res="0,5" PLogo="0"/>
+		<Capa Titulo="Administrativa rasteritzada 1_10.000" Nombre="administratiu" Res="1" PLogo="0"/>
+		<Capa Titulo="Administrativa rasteritzada 1_25.000" Nombre="administratiu" Res="2,5" PLogo="0"/>
+		<Capa Titulo="Administrativa rasteritzada 1_50.000" Nombre="administratiu" Res="5" PLogo="0"/>
+		<Capa Titulo="Administrativa rasteritzada 1_100.000" Nombre="administratiu" Res="10" PLogo="0"/>
 		<Capa Titulo="Estandard general rasteritzada 1_5.000" Nombre="estandard" Res="0,5" PLogo="0"/>
+		<Capa Titulo="Estandard general rasteritzada 1_10.000" Nombre="estandard" Res="1" PLogo="0"/>
+		<Capa Titulo="Estandard general rasteritzada 1_25.000" Nombre="estandard" Res="2,5" PLogo="0"/>
+		<Capa Titulo="Estandard general rasteritzada 1_50.000" Nombre="estandard" Res="5" PLogo="0"/>
+		<Capa Titulo="Estandard general rasteritzada 1_100.000" Nombre="estandard" Res="10" PLogo="0"/>
 		<Capa Titulo="Estandard general gris rasteritzada 1_5.000" Nombre="estandard-gris" Res="0,5" PLogo="0"/>
+		<Capa Titulo="Estandard general gris rasteritzada 1_10.000" Nombre="estandard-gris" Res="1" PLogo="0"/>
+		<Capa Titulo="Estandard general gris rasteritzada 1_25.000" Nombre="estandard-gris" Res="2,5" PLogo="0"/>
+		<Capa Titulo="Estandard general gris rasteritzada 1_50.000" Nombre="estandard-gris" Res="5" PLogo="0"/>
+		<Capa Titulo="Estandard general gris rasteritzada 1_100.000" Nombre="estandard-gris" Res="10" PLogo="0"/>
 		<Capa Titulo="Ortofoto rasteritzada 1_5.000" Nombre="orto" Res="0,5" PLogo="0"/>
+		<Capa Titulo="Ortofoto rasteritzada 1_10.000" Nombre="orto" Res="1" PLogo="0"/>
+		<Capa Titulo="Ortofoto rasteritzada 1_25.000" Nombre="orto" Res="2,5" PLogo="0"/>
+		<Capa Titulo="Ortofoto rasteritzada 1_50.000" Nombre="orto" Res="5" PLogo="0"/>
+		<Capa Titulo="Ortofoto rasteritzada 1_100.000" Nombre="orto" Res="10" PLogo="0"/>
 		<Capa Titulo="Ortofoto gris rasteritzada 1_5.000" Nombre="orto-gris" Res="0,5" PLogo="0"/>
+		<Capa Titulo="Ortofoto gris rasteritzada 1_10.000" Nombre="orto-gris" Res="1" PLogo="0"/>
+		<Capa Titulo="Ortofoto gris rasteritzada 1_25.000" Nombre="orto-gris" Res="2,5" PLogo="0"/>
+		<Capa Titulo="Ortofoto gris rasteritzada 1_50.000" Nombre="orto-gris" Res="5" PLogo="0"/>
+		<Capa Titulo="Ortofoto gris rasteritzada 1_100.000" Nombre="orto-gris" Res="10" PLogo="0"/>
 		<Capa Titulo="Ortofoto híbrida rasteritzada 1_5.000" Nombre="orto-hibrida" Res="0,5" PLogo="0"/>
+		<Capa Titulo="Ortofoto híbrida rasteritzada 1_10.000" Nombre="orto-hibrida" Res="1" PLogo="0"/>
+		<Capa Titulo="Ortofoto híbrida rasteritzada 1_25.000" Nombre="orto-hibrida" Res="2,5" PLogo="0"/>
+		<Capa Titulo="Ortofoto híbrida rasteritzada 1_50.000" Nombre="orto-hibrida" Res="5" PLogo="0"/>
+		<Capa Titulo="Ortofoto híbrida rasteritzada 1_100.000" Nombre="orto-hibrida" Res="10" PLogo="0"/>
 		<Capa Titulo="Geològic rasteritzada 1_5.000" Nombre="geologic" Res="0,5" PLogo="0"/>
-		<Capa Titulo="Topogràfica rasteritzada 1_5.000" Nombre="topografic" Res="0,5" PLogo="0"/>
+		<Capa Titulo="Geològic rasteritzada 1_10.000" Nombre="geologic" Res="1" PLogo="0"/>
+		<Capa Titulo="Geològic rasteritzada 1_25.000" Nombre="geologic" Res="2,5" PLogo="0"/>
+		<Capa Titulo="Geològic rasteritzada 1_50.000" Nombre="geologic" Res="5" PLogo="0"/>
+		<Capa Titulo="Geològic rasteritzada 1_100.000" Nombre="geologic" Res="10" PLogo="0"/>
 	</Servidor>
 	<Servidor Nombre="ICGC ortoXpres" SrvUrl="http://geoserveis.icgc.cat/icc_ortoxpres/wms/service?" ImgMaxX="2000" ImgMaxY="2000">
 		<Capa Titulo="Catalunya 25cm 2021" Nombre="ox3dcat25c2021" Res="0,25" PLogo="0"/>
